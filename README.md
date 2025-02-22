@@ -4,7 +4,7 @@ Create a Hospital Emergency Room Analysis Dashboard in Power BI to improve effic
 ## Dataset used
 - <a href="https://github.com/AGhumde30/Hospital-Emergency-Room-Dashboard/blob/main/Dashboard.xlsx">Dataset<a>
 ## KPI's
-Number of Patients:
+# Number of Patients:
 Count the total number of patients visiting the ER each day.
 Show a daily trend with an area sparkline to spot patterns like busy days or seasonal trends.
 Average Wait Time:
