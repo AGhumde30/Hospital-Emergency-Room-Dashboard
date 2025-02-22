@@ -14,4 +14,4 @@ Use an area sparkline to track daily changes and highlight days with longer wait
 Check the average daily satisfaction score of patients to assess service quality.
 Use an area sparkline to show trends, spot drops in satisfaction, and link them to busy times or challenges.
 # Dashboard 
-https://github.com/AGhumde30/Hospital-Emergency-Room-Dashboard/blob/main/Final%20Dashboard%20Of%20Hospital%20Emergency%20Room.png
+h
