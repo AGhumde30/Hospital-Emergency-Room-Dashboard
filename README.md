@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1e7d24a9-8d1a-4cc0-8543-fb1a11e806a5)![image](https://github.com/user-attachments/assets/d0d207d5-1a1d-4ce2-8da5-b18cc3ae70b3)![image](https://github.com/user-attachments/assets/5e829cbc-82d4-4fd0-b838-feefdbc8c5f5)# Hospital Emergency Room Dashboard (Interactive dashboard creation using MS Excel)
+# Hospital Emergency Room Dashboard (Interactive dashboard creation using MS Excel)
 ## Project Objective
 Create a Hospital Emergency Room Analysis Dashboard in Power BI to improve efficiency and provide useful insights. This dashboard will help stakeholders monitor, analyze, and make better decisions for managing patients and improving services!
 ## Dataset used
